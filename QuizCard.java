@@ -1,5 +1,3 @@
-package serialization;
-
 import java.io.*;
 
 public class QuizCard implements Serializable {
