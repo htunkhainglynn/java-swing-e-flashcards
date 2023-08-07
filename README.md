@@ -1,15 +1,13 @@
 # java-swing-e-flashcards
 
-First make a quiz card.
-```
-java QuizCard
-```
-
-Then, build a quiz card.
+First, build a quiz card.
 ```
 java QuizCardBuilder
 ```
-Finally, you can play the game.
+Add quizzes and their related answers, then save them with txt file.
+
+Then, you can play the game. Run
 ```
 java QuizCardPlayer
 ```
+Open the file you add recently and then you can play
